@@ -2,9 +2,9 @@
 
 **Containment for AI agent swarms.** Memory access is a capability an agent holds, not a property of where the data lives.
 
-[![HyperBus, how it works](profile/hyperbus-motion-poster.jpg)](profile/hyperbus-motion.mp4)
+[![HyperBus, how it works](https://github.com/TenantSwarm-ai/.github/raw/main/profile/hyperbus-motion-poster.jpg)](https://github.com/TenantSwarm-ai/.github/blob/main/profile/hyperbus-motion.mp4)
 
-*A 40-second explainer. Click the picture to watch it, or [read the script](profile/script.md).*
+*A 40-second explainer. Click the picture to watch it, or [read the script](https://github.com/TenantSwarm-ai/.github/blob/main/profile/script.md).*
 
 ## How HyperBus contains a swarm
 
